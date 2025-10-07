@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Cpcm6gk1/Screenshot-2025-10-08-002308.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 1,
+    "description": "An AI-powered chatbot that offers advanced conversational abilities.",
+    "size": 200,
+    "reviews": 500000,
+    "ratingAvg": 4.8,
+    "downloads": "52M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q78Lr9Hz/T-l-charger-3d-TIC-Tac-logo.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 2,
+    "description": "A short-form video platform that allows users to create and share 15-second videos.",
+    "size": 250,
+    "reviews": 600000,
+    "ratingAvg": 4.7,
+    "downloads": "39M",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVx9DX34/Ilustra-o-de-renderiza-o-3-D-do-cone-do-aplicativo-Instagram-em-um-fundo-branco-Foto-Premium.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 3,
+    "description": "Photo and video sharing platform to connect with friends and creators.",
+    "size": 200,
+    "reviews": 550000,
+    "ratingAvg": 4.6,
+    "downloads": "38M",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JWv4FDxY/download-2.jpg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "id": 4,
+    "description": "Free messaging and calling app used worldwide.",
+    "size": 150,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": "27M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/27Hv9Mdx/Download-Capcut-transparent-icon.jpg",
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "A powerful video editing app for creators of all levels.",
+    "size": 120,
+    "reviews": 450000,
+    "ratingAvg": 4.6,
+    "downloads": "23M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFFq7h85/the-Spotify-logo.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 6,
+    "description": "Music streaming service with millions of tracks and podcasts.",
+    "size": 100,
+    "reviews": 300000,
+    "ratingAvg": 4.7,
+    "downloads": "35M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tph5VPtZ/download-1.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 7,
+    "description": "Cloud-based messaging app with speed and security focus.",
+    "size": 100,
+    "reviews": 300000,
+    "ratingAvg": 4.5,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TD2mzxxn/netflix-icon.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Watch movies and TV shows from around the world.",
+    "size": 180,
+    "reviews": 400000,
+    "ratingAvg": 4.6,
+    "downloads": "30M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 285000 }
+    ]
+  }
+]
