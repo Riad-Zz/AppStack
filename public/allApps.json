@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Cpcm6gk1/Screenshot-2025-10-08-002308.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 1,
+    "description": "An AI-powered chatbot that offers advanced conversational abilities.",
+    "size": 200,
+    "reviews": 500000,
+    "ratingAvg": 4.8,
+    "downloads": "52M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q78Lr9Hz/T-l-charger-3d-TIC-Tac-logo.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 2,
+    "description": "A short-form video platform that allows users to create and share 15-second videos.",
+    "size": 250,
+    "reviews": 600000,
+    "ratingAvg": 4.7,
+    "downloads": "39M",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVx9DX34/Ilustra-o-de-renderiza-o-3-D-do-cone-do-aplicativo-Instagram-em-um-fundo-branco-Foto-Premium.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 3,
+    "description": "Photo and video sharing platform to connect with friends and creators.",
+    "size": 200,
+    "reviews": 550000,
+    "ratingAvg": 4.6,
+    "downloads": "38M",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JWv4FDxY/download-2.jpg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "id": 4,
+    "description": "Free messaging and calling app used worldwide.",
+    "size": 150,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": "27M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/27Hv9Mdx/Download-Capcut-transparent-icon.jpg",
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "A powerful video editing app for creators of all levels.",
+    "size": 120,
+    "reviews": 450000,
+    "ratingAvg": 4.6,
+    "downloads": "23M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFFq7h85/the-Spotify-logo.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 6,
+    "description": "Music streaming service with millions of tracks and podcasts.",
+    "size": 100,
+    "reviews": 300000,
+    "ratingAvg": 4.7,
+    "downloads": "35M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tph5VPtZ/download-1.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 7,
+    "description": "Cloud-based messaging app with speed and security focus.",
+    "size": 100,
+    "reviews": 300000,
+    "ratingAvg": 4.5,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TD2mzxxn/netflix-icon.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Watch movies and TV shows from around the world.",
+    "size": 180,
+    "reviews": 400000,
+    "ratingAvg": 4.6,
+    "downloads": "30M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 285000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/kc7Cqkj5/Google-Drive-Logo.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Cloud storage service to store and share files securely.",
+    "size": 220,
+    "reviews": 350000,
+    "ratingAvg": 4.7,
+    "downloads": "40M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 270000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Vg3P7ytG/Canva-Logo.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd.",
+    "id": 10,
+    "description": "Design tool for creating social media graphics, posters, and presentations.",
+    "size": 180,
+    "reviews": 420000,
+    "ratingAvg": 4.8,
+    "downloads": "25M",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 340000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rc8qD12/Genshin-Impact-Logo.jpg",
+    "title": "Genshin Impact",
+    "companyName": "HoYoverse",
+    "id": 11,
+    "description": "Open-world action RPG game with anime-style visuals.",
+    "size": 4500,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6RRn98rG/Microsoft-Teams-Logo.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 12,
+    "description": "Team collaboration platform for chat, meetings, and file sharing.",
+    "size": 250,
+    "reviews": 380000,
+    "ratingAvg": 4.4,
+    "downloads": "22M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 250000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hmK45mD0/Google-Maps-Logo.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Navigation and location service with real-time traffic updates.",
+    "size": 300,
+    "reviews": 600000,
+    "ratingAvg": 4.7,
+    "downloads": "45M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 480000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tZ4c3Zjq/Clash-of-Clans-Logo.jpg",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 14,
+    "description": "Strategy-based mobile game where players build villages and battle others.",
+    "size": 300,
+    "reviews": 700000,
+    "ratingAvg": 4.6,
+    "downloads": "32M",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 570000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MpMMg8fN/Notion-Logo.png",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 15,
+    "description": "All-in-one workspace for notes, tasks, wikis, and databases.",
+    "size": 160,
+    "reviews": 280000,
+    "ratingAvg": 4.8,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 230000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/g63MpdYN/YouTube-Logo.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 16,
+    "description": "Video sharing platform with user-generated and official content.",
+    "size": 280,
+    "reviews": 900000,
+    "ratingAvg": 4.7,
+    "downloads": "60M",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 720000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9bDkxt8x/Zoom-Logo.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 17,
+    "description": "Video conferencing app for meetings, webinars, and collaboration.",
+    "size": 240,
+    "reviews": 420000,
+    "ratingAvg": 4.5,
+    "downloads": "26M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ltt4kvkR/Airbnb-Logo.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 18,
+    "description": "Find vacation rentals and unique stays around the world.",
+    "size": 200,
+    "reviews": 260000,
+    "ratingAvg": 4.7,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdtRCZVG/Subway-Surfers-Logo.png",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 19,
+    "description": "Endless running game where players dash through subway tracks.",
+    "size": 180,
+    "reviews": 800000,
+    "ratingAvg": 4.6,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 650000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9rgrC4Nm/Pinterest-Logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 20,
+    "description": "Visual discovery engine for finding inspiration and ideas.",
+    "size": 160,
+    "reviews": 370000,
+    "ratingAvg": 4.7,
+    "downloads": "28M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  }
+]
