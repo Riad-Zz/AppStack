@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <div className='text-center mt-14'>
             <p className=' text-[#001931] text-7xl font-bold'>We Build</p>
-            <p className='text-[#001931] text-7xl font-bold mb-4'><span className='text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>Productive</span> Apps</p>
+            <p className='text-[#001931] text-6xl md:text-7xl font-bold mb-4'><span className='text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-6xl md:text-7xl '>Productive</span> Apps</p>
             <p className='text-[#627382] mb-8 max-w-[799px] mx-auto'>At AppStack, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             <div className='flex justify-center mb-4 gap-4'>
                 <Link to="https://play.google.com/store/games?hl=en">
@@ -29,7 +29,7 @@ const Banner = () => {
 
 
             </div>
-            <div className='flex justify-center'>
+            <div className='flex justify-center mt-5'>
                 <img src={heroIcon} alt="Banner Image" />
             </div>
         </div>
