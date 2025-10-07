@@ -14,7 +14,7 @@ const AllApps = () => {
         const searchedValue = e.target.value.toLowerCase();
         setLoading(true);
 
-        setTimeout(() => { // simulate processing delay
+        setTimeout(() => { 
             const filteredData = initialallData.filter(data => data.title.toLowerCase().includes(searchedValue));
             setAllData(filteredData);
             setLoading(false);
@@ -56,7 +56,7 @@ const AllApps = () => {
                     <HashLoader color="#7e56b7" size={60} />
                 </div>
             )}
-            
+
             <div className='max-w-10/12 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-6'>
                 {
                     (allData.length == 0) ? <NoAppFound></NoAppFound> : allData.map(app => <AllAppCard app={app}></AllAppCard>)
