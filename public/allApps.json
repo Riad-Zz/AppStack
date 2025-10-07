@@ -4,17 +4,17 @@
     "title": "ChatGPT",
     "companyName": "OpenAI",
     "id": 1,
-    "description": "An AI-powered chatbot that offers advanced conversational abilities.",
+    "description": "ChatGPT is an AI-powered conversational assistant that goes beyond simple question answering. It allows users to interact naturally, offering explanations, generating creative content, brainstorming ideas, or even coding assistance. Its conversational design adapts to the user’s style, remembering context and building on previous interactions for a more fluid experience. Users can explore various topics, ask for summaries, or use it as a learning companion. A standout feature is its ability to simulate role-playing scenarios, making it perfect for practice interviews, language learning, or creative writing exercises. With instant responses and deep understanding of complex queries, ChatGPT empowers users to complete tasks faster and think more creatively. It also supports integrations, enabling productivity workflows like drafting emails, writing reports, or generating code snippets.",
     "size": 200,
-    "reviews": 500000,
+    "reviews": "500K",
     "ratingAvg": 4.8,
     "downloads": "52M",
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 20000 },
+      { "name": "5 star", "count": 350000 },
       { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 350000 }
+      { "name": "3 star", "count": 20000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 5000 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "title": "TikTok",
     "companyName": "ByteDance",
     "id": 2,
-    "description": "A short-form video platform that allows users to create and share 15-second videos.",
+    "description": "TikTok is a dynamic platform for short-form video creation, where users can share 15 to 60-second clips with global audiences. Its AI-powered recommendation engine delivers a highly personalized feed, keeping users entertained while discovering new creators and trends. Editing tools, filters, and music overlays let creators produce professional-looking content without advanced skills. A unique feature is TikTok’s challenge system, which encourages users to participate in viral trends or create themed content. Its social and interactive elements—likes, comments, duets, and stitches—foster engagement and creativity. TikTok also supports learning and niche communities, from DIY tutorials to educational tips, making it more than entertainment; it’s a space for expression and growth.",
     "size": 250,
-    "reviews": 600000,
+    "reviews": "600K",
     "ratingAvg": 4.7,
     "downloads": "39M",
     "ratings": [
-      { "name": "1 star", "count": 6000 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 30000 },
+      { "name": "5 star", "count": 350000 },
       { "name": "4 star", "count": 180000 },
-      { "name": "5 star", "count": 350000 }
+      { "name": "3 star", "count": 30000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "1 star", "count": 6000 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "title": "Instagram",
     "companyName": "Meta Platforms",
     "id": 3,
-    "description": "Photo and video sharing platform to connect with friends and creators.",
+    "description": "Instagram is a visual-first social media platform designed for sharing photos, videos, and stories. Users can showcase their creativity through curated feeds, Reels, and interactive stories. Its discovery tools, including Explore and hashtags, allow users to find content from friends, influencers, or brands. Instagram’s unique value lies in its combination of storytelling and community. Users can interact via comments, direct messaging, and collaborative posts. Features like Reels and shopping integration allow creators and businesses to reach audiences while monetizing content. With creative editing tools, filters, and AR effects, Instagram transforms everyday moments into engaging visual narratives.",
     "size": 200,
-    "reviews": 550000,
+    "reviews": "550K",
     "ratingAvg": 4.6,
     "downloads": "38M",
     "ratings": [
-      { "name": "1 star", "count": 7000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 25000 },
+      { "name": "5 star", "count": 330000 },
       { "name": "4 star", "count": 160000 },
-      { "name": "5 star", "count": 330000 }
+      { "name": "3 star", "count": 25000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "1 star", "count": 7000 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "title": "WhatsApp",
     "companyName": "Meta Platforms",
     "id": 4,
-    "description": "Free messaging and calling app used worldwide.",
+    "description": "WhatsApp is a global messaging app providing secure text messaging, voice, and video calls. It allows users to communicate instantly with individuals or groups, no matter where they are in the world. End-to-end encryption ensures privacy for personal and professional conversations alike. Its standout features include multimedia sharing, voice notes, and the ability to send documents, images, and videos seamlessly. WhatsApp also supports group chats and broadcast messages, making it essential for both social and business communication. With simple design, offline messaging, and status updates, it creates a unified experience for daily communication.",
     "size": 150,
-    "reviews": 400000,
+    "reviews": "400K",
     "ratingAvg": 4.5,
     "downloads": "27M",
     "ratings": [
-      { "name": "1 star", "count": 4000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 20000 },
+      { "name": "5 star", "count": 240000 },
       { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 240000 }
+      { "name": "3 star", "count": 20000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 4000 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "title": "CapCut",
     "companyName": "ByteDance",
     "id": 5,
-    "description": "A powerful video editing app for creators of all levels.",
+    "description": "CapCut is a full-featured video editing app that empowers creators of all levels to produce high-quality videos quickly. Its intuitive interface includes templates, transitions, effects, and audio tools, allowing for professional-grade edits without complex software. The app excels in advanced editing features like keyframe animations, chroma key, and speed adjustments. Users can layer multiple tracks, add captions, and synchronize effects with music. CapCut also provides easy export options optimized for social media platforms. Whether you’re a hobbyist or aspiring influencer, CapCut streamlines the creative process from raw footage to polished content.",
     "size": 120,
-    "reviews": 450000,
+    "reviews": "450K",
     "ratingAvg": 4.6,
     "downloads": "23M",
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 10000 },
+      { "name": "5 star", "count": 120000 },
       { "name": "4 star", "count": 60000 },
-      { "name": "5 star", "count": 120000 }
+      { "name": "3 star", "count": 10000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "1 star", "count": 2000 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "title": "Spotify",
     "companyName": "Spotify Ltd.",
     "id": 6,
-    "description": "Music streaming service with millions of tracks and podcasts.",
+    "description": "Spotify is a music and podcast streaming platform that provides personalized listening experiences. Users can explore millions of songs across genres, create playlists, and follow artists or podcasts. Its recommendation engine suggests music based on listening habits, mood, and trends. Spotify offers features like collaborative playlists, offline listening, and curated playlists for every activity. The integration of podcasts and exclusive content enhances the platform’s versatility. Users can discover new music, enjoy high-quality streaming, and organize their library efficiently. Spotify acts as both a music companion and a personal curator, adapting to each user’s taste and lifestyle.",
     "size": 100,
-    "reviews": 300000,
+    "reviews": "300K",
     "ratingAvg": 4.7,
     "downloads": "35M",
     "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 15000 },
+      { "name": "5 star", "count": 200000 },
       { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 200000 }
+      { "name": "3 star", "count": 15000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "1 star", "count": 3000 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "title": "Telegram",
     "companyName": "Telegram Messenger LLP",
     "id": 7,
-    "description": "Cloud-based messaging app with speed and security focus.",
+    "description": "Telegram is a cloud-based messaging platform that emphasizes speed, security, and flexibility. Users can send messages, media, and files of any type, and create group chats or channels for large communities. Telegram’s secret chat feature provides end-to-end encryption for enhanced privacy. Bots, polls, and customizable themes add functionality for both personal and business use. Its multi-device support allows seamless syncing across phones, tablets, and desktops. With advanced privacy controls, cloud storage, and instant messaging, Telegram has become a hub for secure communication, collaboration, and community engagement.",
     "size": 100,
-    "reviews": 300000,
+    "reviews": "300K",
     "ratingAvg": 4.5,
     "downloads": "20M",
     "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 15000 },
+      { "name": "5 star", "count": 120000 },
       { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 120000 }
+      { "name": "3 star", "count": 15000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "1 star", "count": 3000 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 8,
-    "description": "Watch movies and TV shows from around the world.",
+    "description": "Netflix is a leading streaming platform offering movies, TV shows, and original content worldwide. Users can browse by genre, search for favorites, and create personalized watchlists. Netflix’s recommendation engine suggests shows based on viewing habits, making discovery effortless. The platform supports multiple devices, offline downloads, and multi-profile management. With exclusive originals, award-winning series, and global content, Netflix provides a premium entertainment experience. Interactive storytelling, subtitles, and multiple audio options make it accessible and immersive for viewers around the globe.",
     "size": 180,
-    "reviews": 400000,
+    "reviews": "400K",
     "ratingAvg": 4.6,
     "downloads": "30M",
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 20000 },
+      { "name": "5 star", "count": 285000 },
       { "name": "4 star", "count": 90000 },
-      { "name": "5 star", "count": 285000 }
+      { "name": "3 star", "count": 20000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 5000 }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "title": "Google Drive",
     "companyName": "Google LLC",
     "id": 9,
-    "description": "Cloud storage service to store and share files securely.",
+    "description": "Google Drive is a cloud storage service that lets users store, access, and share files securely from anywhere. Users can organize files in folders, collaborate in real-time with Google Docs, Sheets, and Slides, and manage permissions for teams or individuals. It supports file versioning, offline access, and synchronization across devices. With its integration into Google Workspace, Drive becomes a central hub for personal and professional productivity. Advanced search, automatic backups, and generous storage options make it reliable for both casual users and business teams, ensuring files are accessible, secure, and organized.",
     "size": 220,
-    "reviews": 350000,
+    "reviews": "350K",
     "ratingAvg": 4.7,
     "downloads": "40M",
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 10000 },
+      { "name": "5 star", "count": 270000 },
       { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 270000 }
+      { "name": "3 star", "count": 10000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "1 star", "count": 2000 }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "title": "Canva",
     "companyName": "Canva Pty Ltd.",
     "id": 10,
-    "description": "Design tool for creating social media graphics, posters, and presentations.",
+    "description": "Canva is a versatile design platform that allows users to create social media graphics, presentations, posters, and other visual content. With templates, drag-and-drop editing, and a library of images, fonts, and icons, users can design professionally without prior experience. Collaboration tools enable team projects, while branding kits maintain consistency across designs. Canva also supports video editing, animation, and print-ready exports. Its simplicity and robust features make it a go-to tool for students, professionals, and creators looking to produce eye-catching visual content quickly.",
     "size": 180,
-    "reviews": 420000,
+    "reviews": "420K",
     "ratingAvg": 4.8,
     "downloads": "25M",
     "ratings": [
-      { "name": "1 star", "count": 2500 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 8000 },
+      { "name": "5 star", "count": 340000 },
       { "name": "4 star", "count": 60000 },
-      { "name": "5 star", "count": 340000 }
+      { "name": "3 star", "count": 8000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "1 star", "count": 2500 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "title": "Genshin Impact",
     "companyName": "HoYoverse",
     "id": 11,
-    "description": "Open-world action RPG game with anime-style visuals.",
+    "description": "Genshin Impact is an open-world action RPG that immerses players in a richly detailed anime-style universe. Users explore elemental regions, battle enemies with a dynamic combat system, and collect unique characters with diverse abilities. The game emphasizes exploration, puzzle-solving, and story-driven quests. Multiplayer co-op mode lets friends adventure together. With regular updates, seasonal events, and immersive graphics, Genshin Impact offers a constantly evolving experience. Players can customize teams, optimize elemental reactions, and fully engage with a world full of lore, challenges, and rewards.",
     "size": 4500,
-    "reviews": 800000,
+    "reviews": "800K",
     "ratingAvg": 4.5,
     "downloads": "20M",
     "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 7000 },
-      { "name": "3 star", "count": 30000 },
+      { "name": "5 star", "count": 600000 },
       { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 600000 }
+      { "name": "3 star", "count": 30000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "1 star", "count": 10000 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "title": "Microsoft Teams",
     "companyName": "Microsoft Corporation",
     "id": 12,
-    "description": "Team collaboration platform for chat, meetings, and file sharing.",
+    "description": "Microsoft Teams is a collaboration platform designed for chat, video conferencing, file sharing, and team organization. Users can communicate in channels, schedule meetings, and integrate apps to streamline workflows. Real-time document collaboration, task management, and secure enterprise features make it ideal for businesses and educational institutions. Notifications and threaded conversations help teams stay organized. Teams also supports external collaboration, recording meetings, and advanced meeting features like breakout rooms. With integration into Microsoft 365, Teams centralizes communication and productivity for groups of any size.",
     "size": 250,
-    "reviews": 380000,
+    "reviews": "380K",
     "ratingAvg": 4.4,
     "downloads": "22M",
     "ratings": [
-      { "name": "1 star", "count": 4000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 12000 },
+      { "name": "5 star", "count": 250000 },
       { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 250000 }
+      { "name": "3 star", "count": 12000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 4000 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 13,
-    "description": "Navigation and location service with real-time traffic updates.",
+    "description": "Google Maps is a navigation and mapping service that helps users find locations, routes, and points of interest. It provides real-time traffic updates, public transportation info, and step-by-step directions for driving, walking, biking, or transit. Users can explore nearby restaurants, shops, and landmarks, read reviews, and view street-level imagery. Google Maps also allows saving favorite places, sharing locations, and contributing photos or reviews. With offline maps and integration into other Google services, it serves as an indispensable travel, commuting, and exploration tool.",
     "size": 300,
-    "reviews": 600000,
+    "reviews": "600K",
     "ratingAvg": 4.7,
     "downloads": "45M",
     "ratings": [
-      { "name": "1 star", "count": 4000 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 15000 },
+      { "name": "5 star", "count": 480000 },
       { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 480000 }
+      { "name": "3 star", "count": 15000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "1 star", "count": 4000 }
     ]
   },
   {
@@ -238,125 +238,125 @@
     "title": "Clash of Clans",
     "companyName": "Supercell",
     "id": 14,
-    "description": "Strategy-based mobile game where players build villages and battle others.",
+    "description": "Clash of Clans is a strategy-based mobile game where players build villages, train troops, and attack other players to earn resources. Users plan defensive layouts, join clans, and participate in clan wars. Strategic management of resources and troops is key to progression. The game offers cooperative and competitive modes, regular events, and seasonal challenges to keep gameplay engaging. Its blend of base building, strategy, and social interaction ensures a dynamic experience for casual and hardcore players alike.",
     "size": 300,
-    "reviews": 700000,
+    "reviews": "700K",
     "ratingAvg": 4.6,
     "downloads": "32M",
     "ratings": [
-      { "name": "1 star", "count": 8000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 570000 }
+      { "name": "5 star", "count": 450000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "1 star", "count": 10000 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/MpMMg8fN/Notion-Logo.png",
-    "title": "Notion",
-    "companyName": "Notion Labs, Inc.",
-    "id": 15,
-    "description": "All-in-one workspace for notes, tasks, wikis, and databases.",
-    "size": 160,
-    "reviews": 280000,
-    "ratingAvg": 4.8,
-    "downloads": "18M",
-    "ratings": [
-      { "name": "1 star", "count": 1500 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 40000 },
-      { "name": "5 star", "count": 230000 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/g63MpdYN/YouTube-Logo.png",
-    "title": "YouTube",
-    "companyName": "Google LLC",
-    "id": 16,
-    "description": "Video sharing platform with user-generated and official content.",
-    "size": 280,
-    "reviews": 900000,
-    "ratingAvg": 4.7,
-    "downloads": "60M",
-    "ratings": [
-      { "name": "1 star", "count": 8000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 720000 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/9bDkxt8x/Zoom-Logo.png",
+    "image": "https://i.ibb.co.com/y5p9G8G0/Zoom-Logo.png",
     "title": "Zoom",
-    "companyName": "Zoom Video Communications, Inc.",
-    "id": 17,
-    "description": "Video conferencing app for meetings, webinars, and collaboration.",
-    "size": 240,
-    "reviews": 420000,
+    "companyName": "Zoom Video Communications",
+    "id": 15,
+    "description": "Zoom is a video conferencing and online meeting platform enabling users to connect via video, audio, and chat. It supports large meetings, webinars, and breakout rooms for collaboration. Screen sharing, recording, and virtual backgrounds enhance communication. Zoom is widely used in business, education, and remote work settings, providing reliable, high-quality video and audio. Integration with calendars, productivity tools, and meeting management features streamline scheduling and collaboration. Its scalability, ease of use, and stability make it a top choice for virtual communication worldwide.",
+    "size": 150,
+    "reviews": "500K",
     "ratingAvg": 4.5,
-    "downloads": "26M",
-    "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 10000 },
-      { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 330000 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/Ltt4kvkR/Airbnb-Logo.png",
-    "title": "Airbnb",
-    "companyName": "Airbnb, Inc.",
-    "id": 18,
-    "description": "Find vacation rentals and unique stays around the world.",
-    "size": 200,
-    "reviews": 260000,
-    "ratingAvg": 4.7,
-    "downloads": "15M",
-    "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 40000 },
-      { "name": "5 star", "count": 210000 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/LdtRCZVG/Subway-Surfers-Logo.png",
-    "title": "Subway Surfers",
-    "companyName": "SYBO Games",
-    "id": 19,
-    "description": "Endless running game where players dash through subway tracks.",
-    "size": 180,
-    "reviews": 800000,
-    "ratingAvg": 4.6,
-    "downloads": "50M",
-    "ratings": [
-      { "name": "1 star", "count": 6000 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 650000 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/9rgrC4Nm/Pinterest-Logo.png",
-    "title": "Pinterest",
-    "companyName": "Pinterest, Inc.",
-    "id": 20,
-    "description": "Visual discovery engine for finding inspiration and ideas.",
-    "size": 160,
-    "reviews": 370000,
-    "ratingAvg": 4.7,
     "downloads": "28M",
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 8000 },
+      { "name": "5 star", "count": 320000 },
+      { "name": "4 star", "count": 140000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bX2Y6FJn/Amazon-Logo.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "id": 16,
+    "description": "Amazon is a global e-commerce platform offering millions of products across categories. Users can browse, compare prices, read reviews, and purchase goods with secure payment options. Features like one-click ordering, wishlists, and personalized recommendations enhance shopping convenience. Amazon Prime provides fast shipping, streaming content, and exclusive deals. Sellers can use Amazon Marketplace to reach a global audience. Its logistics network ensures timely delivery and reliable service. With integrated customer support, subscriptions, and digital content, Amazon is a comprehensive platform for retail and entertainment.",
+    "size": 250,
+    "reviews": "600K",
+    "ratingAvg": 4.7,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "5 star", "count": 400000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/z3p2zKLn/Snapchat-Logo.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 17,
+    "description": "Snapchat is a multimedia messaging app that allows users to send ephemeral photos, videos, and messages. Its Stories feature enables sharing content with friends for 24 hours, while Discover offers curated content from publishers. Lenses, filters, and AR effects make communication fun and interactive. Users can chat, make video calls, and create Bitmoji avatars. Snapchat emphasizes creativity, real-time sharing, and social engagement. Its privacy features, including disappearing messages and screenshot notifications, make it a unique platform for casual social interaction and expression.",
+    "size": 120,
+    "reviews": "400K",
+    "ratingAvg": 4.4,
+    "downloads": "25M",
+    "ratings": [
+      { "name": "5 star", "count": 220000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "1 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N2JQbk4m/Adobe-Photoshop-Logo.png",
+    "title": "Adobe Photoshop",
+    "companyName": "Adobe Inc.",
+    "id": 18,
+    "description": "Adobe Photoshop is a professional photo editing and graphic design software used worldwide by photographers, designers, and artists. It offers layers, masks, filters, advanced selection tools, and retouching capabilities for high-precision editing. Users can create digital art, manipulate images, and design graphics for web or print. Photoshop supports integration with other Adobe Creative Cloud apps and plugins. Its extensive toolkit allows for everything from basic adjustments to complex compositing, making it the industry standard for creative professionals.",
+    "size": 2500,
+    "reviews": "350K",
+    "ratingAvg": 4.8,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "5 star", "count": 270000 },
       { "name": "4 star", "count": 60000 },
-      { "name": "5 star", "count": 300000 }
+      { "name": "3 star", "count": 10000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "1 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/M1S7tHqv/Google-Photos-Logo.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 19,
+    "description": "Google Photos is a cloud-based photo and video storage service that allows users to back up, organize, and share memories. It offers AI-powered search, automatic albums, and facial recognition to make browsing easy. Users can edit photos, create collages, animations, and share collections with friends and family. Backup and sync across devices ensure access anytime, while privacy controls allow secure sharing. Google Photos integrates with other Google services and provides ample storage solutions for personal and professional use, making it an essential media management platform.",
+    "size": 200,
+    "reviews": "380K",
+    "ratingAvg": 4.7,
+    "downloads": "30M",
+    "ratings": [
+      { "name": "5 star", "count": 250000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4VvDpz7k/Linkedin-Logo.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 20,
+    "description": "LinkedIn is a professional networking platform that allows users to connect, share insights, and advance their careers. Users can build profiles showcasing skills, experience, and education, engage in groups, and follow companies or thought leaders. Job searching, recruitment, and professional content sharing are core features. LinkedIn Learning offers courses to enhance skills, while messaging and collaboration tools facilitate networking. Its algorithm promotes relevant content and connections, helping users expand influence, showcase expertise, and discover career opportunities in a global professional community.",
+    "size": 150,
+    "reviews": "320K",
+    "ratingAvg": 4.6,
+    "downloads": "22M",
+    "ratings": [
+      { "name": "5 star", "count": 200000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 4000 }
     ]
   }
 ]
