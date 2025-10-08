@@ -20,4 +20,13 @@ const setInstalled = (id) => {
     }
 } 
 
-export {getInstalled,setInstalled} ;
+const getInfo = (id) => {
+    const allInstalled = getInstalled() ;
+    if(allInstalled.includes(id)){
+        return true ;
+    }else{
+        return false ;
+    }
+} 
+
+export {getInstalled,setInstalled,getInfo} ;

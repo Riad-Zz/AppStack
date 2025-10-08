@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
-
 import downloadIcon from '../../assets/icon-downloads.png'
 import ratingIcon from '../../assets/icon-ratings.png'
 import reviewIcon from '../../assets/icon-review.png'
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid ,ResponsiveContainer} from 'recharts';
-import { setInstalled } from '../../Utils/Utils';
+import { getInfo, setInstalled } from '../../Utils/Utils';
+
 
 
 
@@ -19,8 +19,11 @@ const AppDetails = () => {
     const graphData = currentCard.ratings ;
     // console.log(graphData) ;
 
+    const [check,setCheck] = useState(()=>getInfo(currentCard.id)) ;
+
     const handleClick = (id) =>{
         setInstalled(id) ;
+        setCheck(true) ;
     }
 
     return (
@@ -51,7 +54,7 @@ const AppDetails = () => {
                             <p className='font-bold text-[#001931] text-4xl'>{currentCard.reviews}</p>
                         </div>
                     </div>
-                    <div onClick={() => handleClick(currentCard.id)}  className='flex justify-center md:justify-start' ><button className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'>Install Now ({currentCard.size}MB)</button></div>
+                    <div onClick={() => handleClick(currentCard.id)}  className='flex justify-center md:justify-start' ><button disabled={check} className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'> {check ? "Installed" :"Install Now"} ({currentCard.size}MB)</button></div>
 
                 </div>
             </div>
