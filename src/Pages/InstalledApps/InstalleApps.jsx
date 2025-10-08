@@ -3,6 +3,7 @@ import InstallAppCard from './InstallAppCard';
 import { useLoaderData, useOutletContext } from 'react-router';
 import { getInstalled, removedInstalled } from '../../Utils/Utils';
 import { toast } from 'react-toastify';
+import NoInstalledApp from '../../Components/NoInstalledApp/NoInstalledApp';
 
 const InstalleApps = () => {
     const allApp = useLoaderData();
@@ -77,7 +78,7 @@ const InstalleApps = () => {
             <InstalledAppsCard></InstalledAppsCard> */}
                 {
                     // allInstalled.map(app => <InstalledAppsCard key={app.id} app={app}></InstalledAppsCard>)
-                    allInstalled.map(app => <InstallAppCard key={app.id} app={app} handleUnistall={handleUnistall}></InstallAppCard>)
+                    (allInstalled.length ===0)? <NoInstalledApp></NoInstalledApp> : allInstalled.map(app => <InstallAppCard key={app.id} app={app} handleUnistall={handleUnistall}></InstallAppCard>)
                 }
                 {/* <InstallAppCard></InstallAppCard>
             <InstallAppCard></InstallAppCard> */}
