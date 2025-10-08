@@ -3,12 +3,12 @@ import Navbar from '../../Components/Navbar/Navbar';
 import { Outlet, useNavigation } from 'react-router';
 import { HashLoader } from 'react-spinners';
 import Footer from '../../Components/Footer/Footer';
-import { ToastContainer} from 'react-toastify';
+import { ToastContainer,Bounce } from 'react-toastify';
 
 const Root = () => {
     const naviagtion = useNavigation();
     const isNavigating = naviagtion.state === "loading";
-    const [allInstalled,setAllInstalled] =useState([]) ;
+    const [allInstalled, setAllInstalled] = useState([]);
     return (
         <div className='min-h-screen bg-[#F5F5F5] text-black'>
             <Navbar></Navbar>
@@ -18,9 +18,20 @@ const Root = () => {
                         size={70}></HashLoader></div>
                 )
             }
-            <Outlet context={{allInstalled,setAllInstalled}}></Outlet>
+            <Outlet context={{ allInstalled, setAllInstalled }}></Outlet>
             <Footer></Footer>
-             <ToastContainer />
+            <ToastContainer
+                autoClose={5000}
+                hideProgressBar={false}
+                newestOnTop
+                closeOnClick={false}
+                rtl={false}
+                pauseOnFocusLoss
+                draggable
+                pauseOnHover
+                theme="light"
+                transition={Bounce}
+            />
         </div>
     );
 };
