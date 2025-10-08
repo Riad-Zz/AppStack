@@ -5,6 +5,8 @@ import downloadIcon from '../../assets/icon-downloads.png'
 import ratingIcon from '../../assets/icon-ratings.png'
 import reviewIcon from '../../assets/icon-review.png'
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid ,ResponsiveContainer} from 'recharts';
+import { setInstalled } from '../../Utils/Utils';
+
 
 
 const AppDetails = () => {
@@ -16,6 +18,11 @@ const AppDetails = () => {
     // console.log(currentCard);
     const graphData = currentCard.ratings ;
     // console.log(graphData) ;
+
+    const handleClick = (id) =>{
+        setInstalled(id) ;
+    }
+
     return (
         <div className='max-w-10/12 mx-auto'>
             {/* App Details  */}
@@ -44,7 +51,7 @@ const AppDetails = () => {
                             <p className='font-bold text-[#001931] text-4xl'>{currentCard.reviews}</p>
                         </div>
                     </div>
-                    <div className='flex justify-center md:justify-start' ><button className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'>Install Now ({currentCard.size}MB)</button></div>
+                    <div onClick={() => handleClick(currentCard.id)}  className='flex justify-center md:justify-start' ><button className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'>Install Now ({currentCard.size}MB)</button></div>
 
                 </div>
             </div>

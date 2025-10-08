@@ -8,7 +8,7 @@ const Navbar = () => {
     const options = <ul className='menu menu-horizontal px-1'>
         <li><NavLink to='/' className={({ isActive }) => (isActive ? "active" : "not-active")} >Home</NavLink></li>
         <li><NavLink to='/app' className={({ isActive }) => (isActive ? "active" : "not-active")} >App</NavLink></li>
-        <li><NavLink to='/m' className={({ isActive }) => (isActive ? "active" : "not-active")} >Installation</NavLink></li>
+        <li><NavLink to='/installed' className={({ isActive }) => (isActive ? "active" : "not-active")} >Installation</NavLink></li>
     </ul>
 
     return (
@@ -24,7 +24,7 @@ const Navbar = () => {
                             className="menu menu-sm dropdown-content bg-white rounded-box z-1 mt-3 w-52 p-2 shadow">
                             <li><NavLink to='/' className={({ isActive }) => (isActive ? "active" : "not-active")} >Home</NavLink></li>
                             <li><NavLink to='/app' className={({ isActive }) => (isActive ? "active" : "not-active")} >App</NavLink></li>
-                            <li><NavLink to='/m' className={({ isActive }) => (isActive ? "active" : "not-active")} >Installation</NavLink></li>
+                            <li><NavLink to='/installed' className={({ isActive }) => (isActive ? "active" : "not-active")} >Installation</NavLink></li>
                         </ul>
                     </div>
                     <div className='flex items-center gap-2 font-bold text-xl'>
