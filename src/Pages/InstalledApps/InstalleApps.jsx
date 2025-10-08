@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import InstallAppCard from './InstallAppCard';
-import { useLoaderData } from 'react-router';
+import { useLoaderData, useOutletContext } from 'react-router';
 import { getInstalled } from '../../Utils/Utils';
 
 const InstalleApps = () => {
     const allApp = useLoaderData() ;
     // console.log(allApp);
-    const [allInstalled,setAllInstalled] = useState([]) ;
+    const {allInstalled,setAllInstalled} = useOutletContext() ; 
 
     useEffect(()=>{
         const installedApps = getInstalled() ;

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Navbar from '../../Components/Navbar/Navbar';
 import { Outlet, useNavigation } from 'react-router';
 import { HashLoader } from 'react-spinners';
@@ -7,6 +7,7 @@ import Footer from '../../Components/Footer/Footer';
 const Root = () => {
     const naviagtion = useNavigation();
     const isNavigating = naviagtion.state === "loading";
+    const [allInstalled,setAllInstalled] =useState([]) ;
     return (
         <div className='min-h-screen bg-[#F5F5F5] text-black'>
             <Navbar></Navbar>
@@ -16,7 +17,7 @@ const Root = () => {
                         size={70}></HashLoader></div>
                 )
             }
-            <Outlet></Outlet>
+            <Outlet context={{allInstalled,setAllInstalled}}></Outlet>
             <Footer></Footer>
         </div>
     );
