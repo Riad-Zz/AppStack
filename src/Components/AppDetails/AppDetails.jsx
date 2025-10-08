@@ -5,6 +5,7 @@ import ratingIcon from '../../assets/icon-ratings.png'
 import reviewIcon from '../../assets/icon-review.png'
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid ,ResponsiveContainer} from 'recharts';
 import { getInfo, setInstalled } from '../../Utils/Utils';
+import { toast } from 'react-toastify';
 
 
 
@@ -24,6 +25,7 @@ const AppDetails = () => {
     const handleClick = (id) =>{
         setInstalled(id) ;
         setCheck(true) ;
+        toast(`${currentCard.title} is Installed`)
     }
 
     return (
@@ -54,7 +56,7 @@ const AppDetails = () => {
                             <p className='font-bold text-[#001931] text-4xl'>{currentCard.reviews}</p>
                         </div>
                     </div>
-                    <div onClick={() => handleClick(currentCard.id)}  className='flex justify-center md:justify-start' ><button disabled={check} className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'> {check ? "Installed" :"Install Now"} ({currentCard.size}MB)</button></div>
+                    <div onClick={() => handleClick(currentCard.id)}  className='flex justify-center md:justify-start' ><button disabled={check} className='bg-[#00D390] text-white px-7 py-4 rounded-lg font-bold cursor-pointer'> {check ? "Installed" :`Install Now (${currentCard.size} MB)`}</button></div>
 
                 </div>
             </div>

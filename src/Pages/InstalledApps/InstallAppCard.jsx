@@ -3,7 +3,7 @@ import downloadIcn from '../../assets/smallDownload.svg'
 import starIcon from '../../assets/smallRating.svg'
 
 
-const InstallAppCard = ({app}) => {
+const InstallAppCard = ({app,handleUnistall}) => {
     return (
         <div className='bg-white rounded-xl p-4 mb-4'>
             <div className='flex flex-col md:flex-row gap-3 justify-between items-center'>
@@ -21,7 +21,7 @@ const InstallAppCard = ({app}) => {
                     </div>
                 </div>
                 <div className=''>
-                    <button  className='bg-[#00D390] text-white  py-3 px-14  md:px-4  rounded-lg cursor-pointer'>Uninstall</button>
+                    <button  onClick={() => handleUnistall(app.id)} className='bg-[#00D390] text-white  py-3 px-14  md:px-4  rounded-lg cursor-pointer '>Uninstall</button>
                 </div>
             </div>
         </div>

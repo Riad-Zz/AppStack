@@ -29,4 +29,11 @@ const getInfo = (id) => {
     }
 } 
 
-export {getInstalled,setInstalled,getInfo} ;
+const removedInstalled = (id) => {
+    const allsaved = getInstalled() ;
+    const update =  allsaved.filter(itm => itm !== id) ;
+    localStorage.setItem("installed",JSON.stringify(update)) ;
+    // console.log(update) ;
+}
+
+export {getInstalled,setInstalled,getInfo,removedInstalled} ;

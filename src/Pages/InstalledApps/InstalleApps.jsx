@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import InstallAppCard from './InstallAppCard';
 import { useLoaderData, useOutletContext } from 'react-router';
-import { getInstalled } from '../../Utils/Utils';
+import { getInstalled, removedInstalled } from '../../Utils/Utils';
+import { toast } from 'react-toastify';
 
 const InstalleApps = () => {
     const allApp = useLoaderData();
@@ -45,6 +46,17 @@ const InstalleApps = () => {
         setAllInstalled(finalApps);
     }, [])
 
+    const handleUnistall = (id) => {
+        console.log("Fromm Parent ! " ,id) ; 
+        removedInstalled(id) ; 
+        const installedApps = getInstalled();
+         const convertedApps = installedApps.map(id => parseInt(id));
+        const finalApps = allApp.filter(app => convertedApps.includes(app.id));
+        // console.log(finalApps) ; 
+        setAllInstalled(finalApps);
+        toast(`App Uninstalled !`) ;
+    }
+
     return (
         <div>
             <div className='mt-14 max-w-10/12 mx-auto'>
@@ -65,7 +77,7 @@ const InstalleApps = () => {
             <InstalledAppsCard></InstalledAppsCard> */}
                 {
                     // allInstalled.map(app => <InstalledAppsCard key={app.id} app={app}></InstalledAppsCard>)
-                    allInstalled.map(app => <InstallAppCard key={app.id} app={app}></InstallAppCard>)
+                    allInstalled.map(app => <InstallAppCard key={app.id} app={app} handleUnistall={handleUnistall}></InstallAppCard>)
                 }
                 {/* <InstallAppCard></InstallAppCard>
             <InstallAppCard></InstallAppCard> */}
