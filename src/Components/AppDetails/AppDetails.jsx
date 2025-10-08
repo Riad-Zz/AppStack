@@ -25,14 +25,17 @@ const AppDetails = () => {
 
     const [check, setCheck] = useState(() => getInfo(currentCard.id));
 
-    const handleClick =async (id) => {
+    const handleClick = async (id) => {
         setInstalled(id);
         toast.promise(
             resolveAfter3Sec,
             {
                 pending: 'Installing . Please Wait ...',
                 success: `${currentCard.title} is Installed`,
-                
+
+            },
+            {
+                theme: 'colored',
             }
         )
         await resolveAfter3Sec;
