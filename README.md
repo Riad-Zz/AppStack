@@ -119,9 +119,8 @@ Below are the main dependencies and devDependencies used in this project.
   }
 }
 
+```
 
-## 🌐 Live Demo  
-[https://projectappstack.netlify.app/](https://projectappstack.netlify.app/)  
+Live Link :  [https://projectappstack.netlify.app/](https://projectappstack.netlify.app/)  
 
-## 📂 Repository  
-[https://github.com/Riad-Zz/AppStack.git](https://github.com/Riad-Zz/AppStack.git)
+Repository :  [https://github.com/Riad-Zz/AppStack.git](https://github.com/Riad-Zz/AppStack.git)
