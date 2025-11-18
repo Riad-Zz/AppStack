@@ -13,13 +13,6 @@ It features smooth navigation, live search, install tracking via local storage, 
 
 ---
 
-## 🌐 Live Demo  
-[https://projectappstack.netlify.app/](https://projectappstack.netlify.app/)  
-
-## 📂 Repository  
-[https://github.com/Riad-Zz/AppStack.git](https://github.com/Riad-Zz/AppStack.git)
-
----
 
 ## 📖 Overview  
 
@@ -95,3 +88,40 @@ npm run dev
 # Build for production
 npm run build
 ```
+## 📦 Dependencies & DevDependencies
+
+Below are the main dependencies and devDependencies used in this project.  
+
+```json
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-icons": "^5.5.0",
+    "react-router": "^7.9.3",
+    "react-spinners": "^0.17.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^3.2.1",
+    "tailwindcss": "^4.1.14"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "daisyui": "^5.1.27",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "globals": "^16.4.0",
+    "vite": "^7.1.7"
+  }
+}
+
+
+## 🌐 Live Demo  
+[https://projectappstack.netlify.app/](https://projectappstack.netlify.app/)  
+
+## 📂 Repository  
+[https://github.com/Riad-Zz/AppStack.git](https://github.com/Riad-Zz/AppStack.git)
